@@ -28,7 +28,7 @@
 
         public Voice(
             double[] _harmonics = null,
-            int _rootFrequency = 220,
+            int _rootFrequency = 440,
             int _sampleRate = 44100,
             double _amp = 1,
             int _phase = 0)

@@ -11,8 +11,7 @@
         double amp { get; set; }
 
         float[] wave;
-        
-        const twoPi = Math.PI * 2;
+        double twoPi = Math.PI * 2;
 
         double[] harmonics;
         public WaveFormat WaveFormat { get; }

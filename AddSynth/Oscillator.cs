@@ -25,7 +25,7 @@
             return count;
         }
 
-        public Voice(
+        public Oscillator(
             double[] _harmonics = null,
             int _rootFrequency = 440,
             int _sampleRate = 44100,
